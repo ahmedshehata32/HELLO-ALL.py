@@ -1,3 +1,3 @@
 import pandas
 list = [1,5,4]
-print(list[0])
+print(list)
